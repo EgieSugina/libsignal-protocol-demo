@@ -1,7 +1,3 @@
-Below is a sample `README.md` file that explains the project, its structure, and how to use it.
-
----
-
 ```markdown
 # Signal Protocol Manager
 
@@ -106,7 +102,3 @@ This project is licensed under the MIT License.
 
 - [@privacyresearch/libsignal-protocol-typescript](https://github.com/privacyresearch/libsignal-protocol-typescript) for the Signal protocol implementation.
 ```
-
----
-
-This `README.md` gives a comprehensive overview of the project, instructions for installation and usage, and an explanation of its modular, OOP structure. Feel free to customize it further based on your project’s specific requirements.
