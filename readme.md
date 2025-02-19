@@ -1,4 +1,3 @@
-```markdown
 # Signal Protocol Manager
 
 This project demonstrates an object‑oriented, modular approach to integrating the [@privacyresearch/libsignal-protocol-typescript](https://github.com/privacyresearch/libsignal-protocol-typescript) library. It encapsulates key generation, session creation, and message encryption/decryption using the Signal Protocol.
