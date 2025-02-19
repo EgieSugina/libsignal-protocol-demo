@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev1": "tsx watch --clear-screen=false index-v1.ts",
+    "dev2": "tsx watch --clear-screen=false index-v2.ts",
+    "dev3": "tsx watch --clear-screen=false index-v3.ts"
+  },
+  "dependencies": {
+    "@privacyresearch/libsignal-protocol-typescript": "^0.0.12"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.2"
+  }
+}
